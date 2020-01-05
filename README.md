@@ -8,7 +8,7 @@ Both files are contained in your steam directory. Where that directory is depend
 
 ### Windows
 
-On Windows this is usually `C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings`, unless you installed Steam on another drive.
+On Windows this is usually `C:\Program Files (x86)\Steam\`, unless you installed Steam on another drive.
 
 ### Linux
 
